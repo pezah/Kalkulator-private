@@ -1,2 +1,0 @@
-# Kalkulator-private
-Private
